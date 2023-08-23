@@ -1,0 +1,67 @@
+QPushButton:enabled {
+    color: #000000;
+    text-decoration: none;
+    background: #f2f2f2;
+    padding: 5px 20px;
+    border: 2px solid #494949;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: Arial;
+    margin-bottom: 10px;
+}
+
+QPushButton:disabled {
+    color: #d9d9d9;
+    text-decoration: none;
+    background: #999999;
+    padding: 5px 20px;
+    border: 2px solid #999999;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: Arial;
+    margin-bottom: 10px;
+}
+
+QPushButton:hover {
+    color: #ffffff;
+    background: #808080;
+    border-color: #808080;
+}
+
+QLabel {
+    font-size: 20px;
+    margin-bottom: 10px;
+    font-family: Arial;
+}
+
+
+QScrollBar:vertical {           
+    background:#c0c0c0; 
+    border: none;   
+}
+
+QScrollBar::handle:vertical {
+    background:#c0c0c0;
+}
+
+QScrollBar::add-line:vertical {
+    border: none;
+    background: none;
+}
+
+QScrollBar::add-line:vertical, QScrollBar::sub-line:vertical {
+    height: 0px;
+}
+
+QScrollBar::add-page:vertical, QScrollBar::sub-page:vertical {
+    background: none;
+}
+
+QHeaderView::section {
+    background-color: #c0c0c0;
+    border: 1px solid #f2f2f2;
+    border-bottom: 1px solid gray;
+    font-size: 13px; 
+    font-weight: bold;
+    font-family: Arial;
+}
