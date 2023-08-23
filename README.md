@@ -1,4 +1,4 @@
-# COVID-19 Tracekr
+# COVID-19 Tracker
 --------------------------
 
 Semestrální práce - předmět STI
