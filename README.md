@@ -2,6 +2,7 @@
 --------------------------
 
 Semestrální práce - předmět STI
+
 Lukáš Kořínek, Václav Halama, Michaela Grusmanová, Helena Doanová
 
 *2021*
